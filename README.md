@@ -1,8 +1,8 @@
-## 👋Hey there, I’m Tam Kieu – IT Recruiter @ VTI 
-## 🌍 Passionate about connecting global IT talents with dream jobs 
-## ✨ Hiring for: Fullstack | Java | BrSE | BA | Tester | Comtor & more 
-## 📲 DM me on LinkedIn or Zalo: 0364292497 
-## 💫 Pronouns: She/Her
+👋Hey there, I’m Tam Kieu – IT Recruiter @ VTI 
+🌍 Passionate about connecting global IT talents with dream jobs 
+✨ Hiring for: Fullstack | Java | BrSE | BA | Tester | Comtor & more 
+📲 DM me on LinkedIn or Zalo: 0364292497 
+💫 Pronouns: She/Her
 
 
 <!--
