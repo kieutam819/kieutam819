@@ -1,4 +1,9 @@
-## Kieu Tam - TA IT  👋
+## 👋Hey there, I’m Tam Kieu – IT Recruiter @ VTI 
+## 🌍 Passionate about connecting global IT talents with dream jobs 
+## ✨ Hiring for: Fullstack | Java | BrSE | BA | Tester | Comtor & more 
+## 📲 DM me on LinkedIn or Zalo: 0364292497 
+## 💫 Pronouns: She/Her
+
 
 <!--
 **kieutam819/kieutam819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
